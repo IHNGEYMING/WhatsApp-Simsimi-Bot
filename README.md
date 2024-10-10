@@ -20,7 +20,7 @@ Untuk Menjalankan Simsimi Bot Anda Perlu Mendownload Script nya terlebih dahulu
 1. **For Termux User**
     ```bash
     git clone https://github.com/IHNGEYMING/WhatsApp-Simsimi-Bot
-    cd Whatsapp-Simsimi-Bot
+    cd WhatsApp-Simsimi-Bot
     npm install
     npm start
     
