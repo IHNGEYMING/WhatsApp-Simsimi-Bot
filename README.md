@@ -1,18 +1,32 @@
 # THIS SCRIPT MADE BY NEXUS GRAND
 
-DON'T SELL THIS SCRIPT 
-LANGUAGE: ID (INDONESIA)
+### FEATURE 
 
-MAYBE I WILL MAKE FOR ANOTHER LANGUAGE.
+- **Pairing Code**: Menyambungkan Akun Whatsapp Menggunakan Pairing Code
+- **Apikey**: Kami menggunakan apikey simsimi gratis yang unlimited request. api ini kadang tidak berjalan dan nanti juga berjalan!
+- **Kecepatan Respon**: cukup cepat, mungkin ada delay karena masalah dari api
 
-FOR INDONESIAN PEOPLE :
-JANGAN JUAL SCRIPT INI YA BANG KAKAK
+### Information
+[![Channel](https://img.shields.io/badge/CHANNEL%20BOT-path?style=for-the-badge&logo=whatsapp&logoColor=white&color=brightgreen)](https://whatsapp.com/channel/0029VamUbVdEQIalRdRZk11w)
 
-HARGAI YANG MEMBUAT SCRIPT INI YA
+## Thanks To
+Author : Nexus Grand
+And Who Have Contributed
 
-BANYAK ERROR PAS PERTAMA KALI BUAT
+### Getting Started
+Untuk Menjalankan Simsimi Bot Anda Perlu Mendownload Script nya terlebih dahulu
 
-BAGIKAN SECARA GRATIS AJAH KARENA SC INI FREE
-
-BANG BANG KOK DI ENC? MAU YANG NO ENC? BELI LAH MURAH KOK CUMA 20K AJAH
-Telegram @NexusGrand
+1 **For Termux User**
+    ```bash
+    pkg update && pkg upgrade
+    git clone https://github.com/IHNGEYMING/WhatsApp-Simsimi-Bot
+    cd Whatsapp-Simsimi-Bot
+    npm install
+    npm start
+    
+2. **For Pterodactyl Panel**
+    ```bash
+    npm install
+    npm start
+    
+Don't Forget To Rate Star!

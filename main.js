@@ -36,10 +36,10 @@ const startBot = async () => {
     });
 
     if (!ptz.authState.creds.registered) {
-        const phoneNumber = await question('𝙼𝚊𝚜𝚞𝚔𝚊𝚗 𝙽𝚘𝚖𝚎𝚛 𝚈𝚊𝚗𝚐 𝙰𝚔𝚝𝚒𝚏 𝙰𝚠𝚊𝚕𝚒 𝙳𝚎𝚗𝚐𝚊𝚗 𝟼𝟸 :\n');
+        const phoneNumber = await question('Enter Your Phone Number With Your Country Code :\n');
         let code = await ptz.requestPairingCode(phoneNumber);
         code = code?.match(/.{1,4}/g)?.join("-") || code;
-        console.log(`𝙲𝙾𝙳𝙴 𝙿𝙰𝙸𝚁𝙸𝙽𝙶 :`, code);
+        console.log(`YOUR PAIRING CODE :`, code);
     }
 
     ptz.ev.on('creds.update', saveCreds);
