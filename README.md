@@ -7,7 +7,7 @@
 - **Kecepatan Respon**: cukup cepat, mungkin ada delay karena masalah dari api
 
 ### Information
-[![Channel](https://img.shields.io/badge/CHANNEL%20BOT-path?style=for-the-badge&logo=whatsapp&logoColor=white&color=brightgreen)](https://whatsapp.com/channel/0029VamUbVdEQIalRdRZk11w)
+[![Channel](https://img.shields.io/badge/CHANNEL%20NEXUS%20GRAND-path?style=for-the-badge&logo=whatsapp&logoColor=white&color=brightgreen)](https://whatsapp.com/channel/0029VamUbVdEQIalRdRZk11w)
 
 ## Thanks To
 Author : Nexus Grand
