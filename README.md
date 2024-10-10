@@ -16,7 +16,7 @@ And Who Have Contributed
 ### Getting Started
 Untuk Menjalankan Simsimi Bot Anda Perlu Mendownload Script nya terlebih dahulu
 
-1 **For Termux User**
+1. **For Termux User**
     ```bash
     pkg update && pkg upgrade
     git clone https://github.com/IHNGEYMING/WhatsApp-Simsimi-Bot
