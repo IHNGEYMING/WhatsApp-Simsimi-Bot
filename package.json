@@ -1,0 +1,19 @@
+{
+  "name": "simsimiwa",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Nexus Grand",
+  "license": "ISC",
+  "description": "Simple Simsimi Bot WhatsApp",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "awesome-phonenumber": "^7.2.0",
+    "axios": "^1.7.7",
+    "pino": "^9.4.0",
+    "qs": "^6.13.0"
+  }
+}
