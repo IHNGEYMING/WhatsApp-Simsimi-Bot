@@ -19,7 +19,6 @@ Untuk Menjalankan Simsimi Bot Anda Perlu Mendownload Script nya terlebih dahulu
 
 1. **For Termux User**
     ```bash
-    pkg update && pkg upgrade
     git clone https://github.com/IHNGEYMING/WhatsApp-Simsimi-Bot
     cd Whatsapp-Simsimi-Bot
     npm install
@@ -31,3 +30,5 @@ Untuk Menjalankan Simsimi Bot Anda Perlu Mendownload Script nya terlebih dahulu
     npm start
     
 Don't Forget To Rate Star!
+
+## Oh Yeah I Forget, This Language Is Indonesian If You Type With Another Language, bot will respond with Indonesian language
